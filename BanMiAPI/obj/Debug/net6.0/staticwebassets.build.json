@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pXCNTCXLQQzDqjCm7FtpNc8n5MGkHnBOV7ZA9qs+g6s=",
+  "Source": "BanMiAPI",
+  "BasePath": "_content/BanMiAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
